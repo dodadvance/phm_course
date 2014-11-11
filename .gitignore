@@ -1,0 +1,5 @@
+fMRI_EEG/data/*
+seizure_detection/data/*
+*.pyc
+*.ipynb_checkpoints
+*.so
