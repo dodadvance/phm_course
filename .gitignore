@@ -3,3 +3,4 @@ seizure_detection/data/*
 *.pyc
 *.ipynb_checkpoints
 *.so
+PowerPlant/data/*
