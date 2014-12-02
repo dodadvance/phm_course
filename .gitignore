@@ -4,3 +4,5 @@ seizure_detection/data/*
 *.ipynb_checkpoints
 *.so
 PowerPlant/data/*
+PowerPlant/plots/*
+*.docx
