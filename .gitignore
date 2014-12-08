@@ -3,3 +3,7 @@ seizure_detection/data/*
 *.pyc
 *.ipynb_checkpoints
 *.so
+PowerPlant/data/*
+PowerPlant/plots/*
+*.docx
+PM-PowerStation/*
